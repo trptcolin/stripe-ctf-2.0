@@ -11,3 +11,7 @@ knew how to [crack safes](http://en.wikipedia.org/wiki/Safe-cracking)...
 - Run `npm install` from this directory to install dependencies
 - Run `node level00.js` to start the server on port 3000
 - Go to [http://localhost:3000](http://localhost:3000) in your browser
+
+# Notes
+
+Tested with node 0.10.26 / npm 1.4.6, but may work with other versions as well.

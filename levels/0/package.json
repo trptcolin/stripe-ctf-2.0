@@ -11,8 +11,8 @@
     "node": "~v0.4.9"
   },
   "dependencies": {
-    "express": "",
-    "sqlite3": "2.1.5",
+    "express": "3.0.0",
+    "sqlite3": "2.1.7",
     "mu2": ""
   },
   "devDependencies": {}
